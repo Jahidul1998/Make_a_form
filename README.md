@@ -2,7 +2,7 @@
 
 Make a form with dart programming language.
 
-## Screenshot
+## gif file
 <img src="./make a form.gif" width="250">
 
 This project is a starting point for a Flutter application.
